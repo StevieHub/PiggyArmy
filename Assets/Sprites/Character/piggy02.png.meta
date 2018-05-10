@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: b5a1c984c7fa18345be7b0f1bec8c4f0
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: piggy02_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 458
+        width: 320
+        height: 267
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: piggy02_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 333
+        width: 304
+        height: 307
+      alignment: 9
+      pivot: {x: .5, y: .100000001}
+    - name: piggy02_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 507
+        width: 154
+        height: 161
+      alignment: 9
+      pivot: {x: .550000012, y: .699999988}
+    - name: piggy02_3
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 518
+        width: 155
+        height: 160
+      alignment: 9
+      pivot: {x: .449999988, y: .699999988}
+    - name: piggy02_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 277
+        width: 206
+        height: 135
+      alignment: 9
+      pivot: {x: .200000003, y: .670000017}
+    - name: piggy02_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 99
+        width: 588
+        height: 179
+      alignment: 9
+      pivot: {x: .360000014, y: .5}
+    - name: piggy02_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 154
+        height: 184
+      alignment: 9
+      pivot: {x: .25999999, y: .75999999}
+    - name: piggy02_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 83
+        width: 113
+        height: 102
+      alignment: 9
+      pivot: {x: .899999976, y: .25}
+  spritePackingTag: 
+  userData: 

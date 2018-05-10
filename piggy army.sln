@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piggy army.Plugins", "piggy army.Plugins.csproj", "{3A854EDD-E43B-44DD-9377-5DECE3191041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piggy army", "piggy army.csproj", "{E37B06EA-1897-0A31-C65F-4946E4CFDDEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piggy army.Editor.Plugins", "piggy army.Editor.Plugins.csproj", "{FC2E7440-59DC-1395-C6FE-487EF676AB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A854EDD-E43B-44DD-9377-5DECE3191041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A854EDD-E43B-44DD-9377-5DECE3191041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A854EDD-E43B-44DD-9377-5DECE3191041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A854EDD-E43B-44DD-9377-5DECE3191041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37B06EA-1897-0A31-C65F-4946E4CFDDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37B06EA-1897-0A31-C65F-4946E4CFDDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37B06EA-1897-0A31-C65F-4946E4CFDDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37B06EA-1897-0A31-C65F-4946E4CFDDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2E7440-59DC-1395-C6FE-487EF676AB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2E7440-59DC-1395-C6FE-487EF676AB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2E7440-59DC-1395-C6FE-487EF676AB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2E7440-59DC-1395-C6FE-487EF676AB58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
